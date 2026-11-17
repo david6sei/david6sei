@@ -1,6 +1,4 @@
-# David Seifert
-
-**Analista Senior de Infraestructura IT y Automatización** · Buenos Aires, Argentina
+<p align="center"><img src="assets/banner.svg" alt="David Seifert · Infraestructura IT, automatización e IA" width="100%"></p>
 
 Trabajo en IT hace más de 10 años. Hoy soy responsable de las redes de 6 sedes en 4 países y de un sistema de más de 150 cámaras. En los últimos años sumé automatización e inteligencia artificial aplicadas a la operación de IT, con n8n como orquestador.
 
@@ -21,10 +19,15 @@ Trabajo en IT hace más de 10 años. Hoy soy responsable de las redes de 6 sedes
 
 ## Tecnologías
 
-**Redes:** MikroTik · Check Point · UniFi · Fortinet · Cisco
-**Infraestructura:** Windows Server · Linux · Active Directory · VMware · Hyper-V · Storage SAN/NAS
-**Automatización e IA:** n8n · API REST · Claude · ChatGPT · Gemini · MCP
-**Monitoreo y servicios:** PRTG · Zabbix · InvGate · Digifort
+**Redes:** ![MikroTik](https://img.shields.io/badge/MikroTik-374151?style=flat-square&logo=mikrotik&logoColor=white) ![Check Point](https://img.shields.io/badge/Check%20Point-374151?style=flat-square) ![UniFi](https://img.shields.io/badge/UniFi-374151?style=flat-square&logo=ubiquiti&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-374151?style=flat-square&logo=fortinet&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-374151?style=flat-square&logo=cisco&logoColor=white)
+
+**Infraestructura:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-374151?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-374151?style=flat-square&logo=linux&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-374151?style=flat-square) ![VMware](https://img.shields.io/badge/VMware-374151?style=flat-square&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-374151?style=flat-square) ![Storage SAN/NAS](https://img.shields.io/badge/Storage%20SAN/NAS-374151?style=flat-square)
+
+**Automatización e IA:** ![n8n](https://img.shields.io/badge/n8n-1d4ed8?style=flat-square&logo=n8n&logoColor=white) ![API REST](https://img.shields.io/badge/API%20REST-1d4ed8?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-1d4ed8?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1d4ed8?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-1d4ed8?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1d4ed8?style=flat-square)
+
+**Monitoreo y servicios:** ![PRTG](https://img.shields.io/badge/PRTG-374151?style=flat-square) ![Zabbix](https://img.shields.io/badge/Zabbix-374151?style=flat-square&logo=zabbix&logoColor=white) ![InvGate](https://img.shields.io/badge/InvGate-374151?style=flat-square) ![Digifort](https://img.shields.io/badge/Digifort-374151?style=flat-square)
+
+**Home lab:** ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-374151?style=flat-square&logo=homeassistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-374151?style=flat-square&logo=raspberrypi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-374151?style=flat-square&logo=docker&logoColor=white)
 
 ## Formación
 
