@@ -24,11 +24,13 @@ Trabajo en IT hace más de 10 años. Hoy soy responsable de las redes de 6 sedes
 
 **Infraestructura:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-2f5f8f?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-2f5f8f?style=flat-square&logo=linux&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-2f5f8f?style=flat-square) ![VMware](https://img.shields.io/badge/VMware-2f5f8f?style=flat-square&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-2f5f8f?style=flat-square) ![Storage SAN/NAS](https://img.shields.io/badge/Storage%20SAN/NAS-2f5f8f?style=flat-square)
 
-**Automatización e IA:** ![n8n](https://img.shields.io/badge/n8n-8a6508?style=flat-square&logo=n8n&logoColor=white) ![API REST](https://img.shields.io/badge/API%20REST-8a6508?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-8a6508?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-8a6508?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8a6508?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-8a6508?style=flat-square)
+**Automatización e IA:** ![n8n](https://img.shields.io/badge/n8n-8a6508?style=flat-square&logo=n8n&logoColor=white) ![API REST](https://img.shields.io/badge/API%20REST-8a6508?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-8a6508?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-8a6508?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8a6508?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-8a6508?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-8a6508?style=flat-square) ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-8a6508?style=flat-square&logo=telegram&logoColor=white)
 
 **Monitoreo y servicios:** ![PRTG](https://img.shields.io/badge/PRTG-2f5f8f?style=flat-square) ![InvGate](https://img.shields.io/badge/InvGate-2f5f8f?style=flat-square) ![Digifort](https://img.shields.io/badge/Digifort-2f5f8f?style=flat-square)
 
 **Home lab:** ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2f5f8f?style=flat-square&logo=homeassistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-2f5f8f?style=flat-square&logo=raspberrypi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2f5f8f?style=flat-square&logo=docker&logoColor=white)
+
+**Electrónica y embebidos:** ![ESP32](https://img.shields.io/badge/ESP32-2f5f8f?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-2f5f8f?style=flat-square&logo=arduino&logoColor=white) ![Zigbee](https://img.shields.io/badge/Zigbee-2f5f8f?style=flat-square&logo=zigbee&logoColor=white)
 
 <h2><img src="assets/titulo-formacion.svg" alt="Formación" width="100%"></h2>
 
