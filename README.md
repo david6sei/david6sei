@@ -20,13 +20,13 @@ Trabajo en IT hace más de 10 años. Hoy soy responsable de las redes de 6 sedes
 
 <h2><img src="assets/titulo-tecnologias.svg" alt="Tecnologías" width="100%"></h2>
 
-**Redes:** ![MikroTik](https://img.shields.io/badge/MikroTik-2f5f8f?style=flat-square&logo=mikrotik&logoColor=white) ![Check Point](https://img.shields.io/badge/Check%20Point-2f5f8f?style=flat-square) ![UniFi](https://img.shields.io/badge/UniFi-2f5f8f?style=flat-square&logo=ubiquiti&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-2f5f8f?style=flat-square&logo=fortinet&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-2f5f8f?style=flat-square&logo=cisco&logoColor=white)
+**Redes:** ![MikroTik](https://img.shields.io/badge/MikroTik-2f5f8f?style=flat-square&logo=mikrotik&logoColor=white) ![Check Point](https://img.shields.io/badge/Check%20Point-2f5f8f?style=flat-square) ![UniFi](https://img.shields.io/badge/UniFi-2f5f8f?style=flat-square&logo=ubiquiti&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-2f5f8f?style=flat-square&logo=fortinet&logoColor=white)
 
 **Infraestructura:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-2f5f8f?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-2f5f8f?style=flat-square&logo=linux&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-2f5f8f?style=flat-square) ![VMware](https://img.shields.io/badge/VMware-2f5f8f?style=flat-square&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-2f5f8f?style=flat-square) ![Storage SAN/NAS](https://img.shields.io/badge/Storage%20SAN/NAS-2f5f8f?style=flat-square)
 
 **Automatización e IA:** ![n8n](https://img.shields.io/badge/n8n-8a6508?style=flat-square&logo=n8n&logoColor=white) ![API REST](https://img.shields.io/badge/API%20REST-8a6508?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-8a6508?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-8a6508?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8a6508?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-8a6508?style=flat-square)
 
-**Monitoreo y servicios:** ![PRTG](https://img.shields.io/badge/PRTG-2f5f8f?style=flat-square) ![Zabbix](https://img.shields.io/badge/Zabbix-2f5f8f?style=flat-square&logo=zabbix&logoColor=white) ![InvGate](https://img.shields.io/badge/InvGate-2f5f8f?style=flat-square) ![Digifort](https://img.shields.io/badge/Digifort-2f5f8f?style=flat-square)
+**Monitoreo y servicios:** ![PRTG](https://img.shields.io/badge/PRTG-2f5f8f?style=flat-square) ![InvGate](https://img.shields.io/badge/InvGate-2f5f8f?style=flat-square) ![Digifort](https://img.shields.io/badge/Digifort-2f5f8f?style=flat-square)
 
 **Home lab:** ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2f5f8f?style=flat-square&logo=homeassistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-2f5f8f?style=flat-square&logo=raspberrypi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2f5f8f?style=flat-square&logo=docker&logoColor=white)
 
